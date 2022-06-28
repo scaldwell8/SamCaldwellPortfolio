@@ -51,6 +51,11 @@ table {
 	border-spacing: 0;
 }
 
+.gist-data{
+    height:250px;
+    overflow-y: visible;
+}
+
 body {
 	-webkit-text-size-adjust: none;
 }

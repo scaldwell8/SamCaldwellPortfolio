@@ -51,9 +51,9 @@ table {
 	border-spacing: 0;
 }
 
-gist-data{
-    height: 100px;
-    overflow-y: visible;
+.gist-data{
+    height: 250px !important;
+    overflow-y: visible !important;
 }
 
 body {

@@ -33,6 +33,16 @@ body {
 	line-height: 1;
 }
 
+.gist {
+	max-width:890px;
+	overflow:auto;
+ }
+ 
+ .gist .blob-wrapper.data {
+	max-height:250px;
+	overflow:auto;
+ }
+
 ol, ul {
 	list-style: none;
 }

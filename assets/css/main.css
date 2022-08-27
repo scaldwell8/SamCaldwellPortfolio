@@ -2223,15 +2223,15 @@ button,
 	text-decoration: none;
 	text-transform: uppercase;
 	/* white-space: nowrap; */
-	font-size: 0.65rem;
+	font-size: 0.7rem;
 	max-width: 20rem;
-	height: 3.75em;
-	line-height: 3.75em;
+	/* height: 3.75em;
+	line-height: 3.75em; */
 	border-radius: 3.75em;
-	padding: 0 1.5em;
-	padding-left: 0 1.5em;
-	padding-right: 0 1.5em;
-	padding-top: -5px !important;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 	margin-bottom: -30px !important;
 	text-overflow: ellipsis;
 	overflow: hidden;
@@ -2282,7 +2282,7 @@ input[type="reset"].wide,
 input[type="button"].wide,
 button.wide,
 .button.wide {
-	min-width: 14em;
+	min-width: 11em;
 }
 
 input[type="submit"].disabled,
